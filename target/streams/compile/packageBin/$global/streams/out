@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/bart/workspace/personal/guice_test/target/scala-2.12/guice_test_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Material.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Material.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Hero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vibranium.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Vibranium.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Carbon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Carbon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SuperUltraStaff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/SuperUltraStaff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PaperStaff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/PaperStaff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PowerSword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/PowerSword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Staff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Staff.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Sword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WoodenSword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/WoodenSword.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ring.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Ring.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bart/workspace/personal/guice_test/target/scala-2.12/classes/Module.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
